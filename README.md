@@ -194,6 +194,13 @@ This project demonstrates:
 
 Himanshu Sharma
 AI/ML Student | Backend & AI Systems Enthusiast
+
+<img width="1919" height="1003" alt="Screenshot 2026-02-18 010820" src="https://github.com/user-attachments/assets/8bd76eec-92b4-47a6-af2d-aa7595de87ad" />
+<img width="1919" height="1012" alt="Screenshot 2026-02-18 010838" src="https://github.com/user-attachments/assets/88f425c3-4657-4aae-b17d-9d7a8ffdbf40" />
+<img width="1919" height="1004" alt="Screenshot 2026-02-18 010857" src="https://github.com/user-attachments/assets/89969352-11ef-4108-b5f7-543c392f0449" />
+<img width="1893" height="1005" alt="Screenshot 2026-02-18 010908" src="https://github.com/user-attachments/assets/d1bcd490-2d0b-47a5-bbbb-ad0951177c60" />
+<img width="1919" height="1140" alt="Screenshot 2026-02-18 011009" src="https://github.com/user-attachments/assets/7b19769e-f5e6-4a38-8503-4635ec4babd0" />
+
 <img width="1024" height="1536" alt="ChatGPT Image Feb 18, 2026, 01_29_26 AM" src="https://github.com/user-attachments/assets/a2dd34db-c8ea-4efd-aa55-47afdbb03c60" />
 
 
